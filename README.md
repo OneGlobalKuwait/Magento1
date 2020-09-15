@@ -8,3 +8,4 @@ Integrating your Magento1 store with Og Checkout services allows you to accept p
 
 # Extension Setup Guide
 Visit https://checkoutdocs.oneglobal.com/plugins-setup-guide/magento-1
+
